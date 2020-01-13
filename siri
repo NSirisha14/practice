@@ -1,0 +1,126 @@
+1  sudo apt update
+    2  sudo apt upgrade
+    3  jdgfghsd
+    4  hjsag
+    5  
+    6  D
+    7  exit
+    8  vagrant exit
+    9  ls desktop
+   10  ls Desktop
+   11  ls home
+   12  ls Home
+   13  hostname
+   14  date
+   15  expr 2+2
+   16  host udacity.com
+   17  echo rock
+   18  bash --version
+   19  uname
+   20  history
+   21  cd Desktop
+   22  mk web.txt
+   23  mkdir web
+   24  cd web
+   25  neweb.txt
+   26  > neweb.txt
+   27  os.remove(neweb.txt)
+   28  os.remove("neweb.txt")
+   29  rm neweb.txt
+   30  rmdir web
+   31  cd..
+   32  cd ..
+   33  rmdir web
+   34  hostname
+   35  mkdir web
+   36  > m.txt
+   37  > a.txt
+   38  > b.txt
+   39  >k.txt
+   40  >c.txt
+   41  wc a.txt
+   42  diff b.txt c.txt
+   43  diff c.txt b.txt
+   44  diff b.txt c.txt
+   45  diff abc abcd
+   46  cd ..
+   47  cowsay hello
+   48  zip web
+   49  unzip web
+   50  unzip web.zip
+   51  unzip web.zip.zip
+   52  cls
+   53  man cls
+   54  unzip web.zip.zip
+   55  unzip web.zip
+   56  cd Desktop
+   57  unzip web.zip
+   58  ls
+   59  man ls
+   60  man -ls
+   61  man ls
+   62  ls -l
+   63  2+34
+   64  cd ..
+   65  2+3+4
+   66  cal
+   67  arithmetic
+   68  bc
+   69  cd Desktop
+   70  cd ..
+   71  cd Desktop
+   72  cd
+   73  cd web
+   74  cd Desktop
+   75  cd web
+   76  cd
+   77  cd Desktop
+   78  pwd
+   79  cd web
+   80  cd .
+   81  cd.
+   82  cd ..
+   83  cd
+   84  pwd
+   85  cd Desktop
+   86  cd web
+   87  cd
+   88  man rmdir
+   89  man rmdir -p
+   90  man ls
+   91  ls -l
+   92  mv web Desktop
+   93  mv Desktop web
+   94  whoami
+   95  cal
+   96  chmod language
+   97  cls
+   98  clear
+   99  passwd
+  100  ls
+  101  ls -l
+  102  users
+  103  who
+  104  w
+  105  ls -l s
+  106  ls -l web
+  107  ls -l Desktop
+  108  ls -a
+  109  vi web
+  110  less web
+  111  vi siri
+  112  cat siri
+  113  cat web
+  114  vi siri1
+  115  cat siri1
+  116  cat -b siri1
+  117  w
+  118  pwd
+  119  wk
+  120  wrk
+  121  wmk
+  122  ls
+  123  ls -l
+  124  history
+https://github.com/NSirisha14/assignments.git
+
