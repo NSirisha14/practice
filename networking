@@ -1,0 +1,41 @@
+                  NETWORKING ASSIGNMENT
+
+1. printf 'HEAD / HTTP/1.1\r\nHost: en.wikipedia.org\r\n\r\n' | nc en.wikipedia.org 80
+
+
+printf 'HEAD / HTTP/1.1\r\nHost: en.wikipedia.org\r\n\r\n'
+ it prints the header part that host is en.wikipedia.org
+head is HTTP/1.1
+
+nc 
+ is used for reading or writing or redirecting the data across the network
+ nc:- Syntax is nc host or url port number
+
+it makes an http request and gives a network Connection to the domain or host.
+
+ 
+OUTPUT :
+  HTTP/1.1 301 TLS Redirect
+Date: Fri, 10 Jan 2020 10:32:20 GMT
+Server: Varnish
+X-Varnish: 396495315
+X-Cache: cp5011 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=10-Jan-2020;Path=/;HttpOnly;secure;Expires=Tue, 11 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=10-Jan-2020;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 11 Feb 2020 00:00:00 GMT
+X-Client-IP: 183.82.101.16
+Location: https://en.wikipedia.org/
+Content-Length: 0
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+
+2. what do you change or modify the above command to get the content from it.
+
+As there are to ways to do that 1. GET 2.wget
+but by using 'wget' a file downloads which as the content in it
+although by doing 'GET' we directly we will get the content from the website.
+SYNTAX:-
+printf 'HEAD / HTTP/1.1\r\nHost: www.rediff.com\r\n\r\n' | GET www.rediff.com 80
+
